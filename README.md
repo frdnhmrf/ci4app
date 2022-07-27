@@ -1,4 +1,5 @@
-# CodeIgniter 4 Application Starter
+# CodeIgniter 4 Application
+This Application to manage your agenda
 
 ## What is CodeIgniter?
 
